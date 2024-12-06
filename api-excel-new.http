@@ -1,0 +1,6 @@
+@api_excel_new_HostAddress = http://localhost:5191
+
+GET {{api_excel_new_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
